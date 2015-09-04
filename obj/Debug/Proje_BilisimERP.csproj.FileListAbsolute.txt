@@ -1,0 +1,95 @@
+c:\users\teknik\documents\visual studio 2012\Projects\Proje_BilisimERP\Proje_BilisimERP\bin\Debug\Proje_BilisimERP.exe.config
+c:\users\teknik\documents\visual studio 2012\Projects\Proje_BilisimERP\Proje_BilisimERP\bin\Debug\Proje_BilisimERP.exe
+c:\users\teknik\documents\visual studio 2012\Projects\Proje_BilisimERP\Proje_BilisimERP\bin\Debug\Proje_BilisimERP.pdb
+c:\users\teknik\documents\visual studio 2012\Projects\Proje_BilisimERP\Proje_BilisimERP\obj\Debug\Proje_BilisimERP.csprojResolveAssemblyReference.cache
+c:\users\teknik\documents\visual studio 2012\Projects\Proje_BilisimERP\Proje_BilisimERP\obj\Debug\Proje_BilisimERP.frmKullaniciGiris.resources
+c:\users\teknik\documents\visual studio 2012\Projects\Proje_BilisimERP\Proje_BilisimERP\obj\Debug\Proje_BilisimERP.Properties.Resources.resources
+c:\users\teknik\documents\visual studio 2012\Projects\Proje_BilisimERP\Proje_BilisimERP\obj\Debug\Proje_BilisimERP.csproj.GenerateResource.Cache
+c:\users\teknik\documents\visual studio 2012\Projects\Proje_BilisimERP\Proje_BilisimERP\obj\Debug\Proje_BilisimERP.exe
+c:\users\teknik\documents\visual studio 2012\Projects\Proje_BilisimERP\Proje_BilisimERP\obj\Debug\Proje_BilisimERP.pdb
+c:\users\teknik\documents\visual studio 2012\Projects\Proje_BilisimERP\Proje_BilisimERP\obj\Debug\Proje_BilisimERP.frmAnaForm.resources
+C:\Users\teknik\Documents\Visual Studio 2012\Projects\Proje_BilisimERP\Proje_BilisimERP\obj\Debug\Proje_BilisimERP.kullanici.frmKullaniciListe.resources
+C:\Users\teknik\Documents\Visual Studio 2012\Projects\Proje_BilisimERP\Proje_BilisimERP\obj\Debug\Proje_BilisimERP.kullanici.frmKullaniciDetay.resources
+C:\Users\teknik\documents\visual studio 2012\Projects\Proje_BilisimERP\Proje_BilisimERP\obj\Debug\Proje_BilisimERP.exe.licenses
+C:\Users\teknik\Documents\Visual Studio 2012\Projects\Proje_BilisimERP\Proje_BilisimERP\obj\Debug\Proje_BilisimERP.Departman.frmDeparmanListe.resources
+C:\Users\teknik\Documents\Visual Studio 2012\Projects\Proje_BilisimERP\Proje_BilisimERP\obj\Debug\Proje_BilisimERP.frmAnaFormRibbon.resources
+C:\Users\teknik\Documents\Visual Studio 2012\Projects\Proje_BilisimERP\Proje_BilisimERP\obj\Debug\Proje_BilisimERP.Departman.frmDepartmanDetay.resources
+C:\Users\teknik\Documents\Visual Studio 2012\Projects\Proje_BilisimERP\Proje_BilisimERP\obj\Debug\Proje_BilisimERP.frmExceleAktar.resources
+C:\Users\teknik\documents\visual studio 2012\Projects\Proje_BilisimERP\Proje_BilisimERP\obj\Debug\Proje_BilisimERP.Unvan.frmUnvanDetay.resources
+C:\Users\teknik\documents\visual studio 2012\Projects\Proje_BilisimERP\Proje_BilisimERP\obj\Debug\Proje_BilisimERP.Unvan.frmUnvanListe.resources
+C:\Users\teknik\documents\visual studio 2012\Projects\Proje_BilisimERP\Proje_BilisimERP\obj\Debug\Proje_BilisimERP.Departman.frmDepartmanUnvan.resources
+C:\Users\teknik\Documents\Visual Studio 2012\Projects\Proje_BilisimERP\Proje_BilisimERP\obj\Debug\Proje_BilisimERP.stok.frmStokDetay.resources
+C:\Users\teknik\Documents\Visual Studio 2012\Projects\Proje_BilisimERP\Proje_BilisimERP\obj\Debug\Proje_BilisimERP.stok.frmStokListe.resources
+C:\Users\teknik\Documents\Visual Studio 2012\Projects\Proje_BilisimERP\Proje_BilisimERP\obj\Debug\Proje_BilisimERP.cari.frmCariListe.resources
+C:\Users\teknik\Documents\Visual Studio 2012\Projects\Proje_BilisimERP\Proje_BilisimERP\obj\Debug\Proje_BilisimERP.cari.frmCariGrupListe.resources
+C:\Users\teknik\Documents\Visual Studio 2012\Projects\Proje_BilisimERP\Proje_BilisimERP\obj\Debug\Proje_BilisimERP.cari.frmCariGrupDetay.resources
+C:\Users\teknik\Documents\Visual Studio 2012\Projects\Proje_BilisimERP\Proje_BilisimERP\obj\Debug\Proje_BilisimERP.cari.frmCariDetay.resources
+C:\Users\teknik\Documents\Visual Studio 2012\Projects\Proje_BilisimERP\Proje_BilisimERP\obj\Debug\Proje_BilisimERP.cari.frmCariListeSecim.resources
+C:\Users\teknik\Documents\Visual Studio 2012\Projects\Proje_BilisimERP\Proje_BilisimERP\obj\Debug\Proje_BilisimERP.siparis.frmSiparisDetay.resources
+C:\Users\teknik\Documents\Visual Studio 2012\Projects\Proje_BilisimERP\Proje_BilisimERP\obj\Debug\Proje_BilisimERP.siparis.frmSiparisListe.resources
+C:\Users\teknik\Documents\Visual Studio 2012\Projects\Proje_BilisimERP\Proje_BilisimERP\obj\Debug\Proje_BilisimERP.XtraReport1.resources
+C:\Users\teknik\Documents\Visual Studio 2012\Projects\Proje_BilisimERP\Proje_BilisimERP\obj\Debug\Proje_BilisimERP.frmPivotRapor.resources
+E:\sonra sil\Proje_BilisimERP_25042015\Proje_BilisimERP_25042015\Proje_BilisimERP\bin\Debug\Proje_BilisimERP.exe.config
+E:\sonra sil\Proje_BilisimERP_25042015\Proje_BilisimERP_25042015\Proje_BilisimERP\obj\Debug\Proje_BilisimERP.exe
+E:\sonra sil\Proje_BilisimERP_25042015\Proje_BilisimERP_25042015\Proje_BilisimERP\obj\Debug\Proje_BilisimERP.pdb
+E:\sonra sil\Proje_BilisimERP_25042015\Proje_BilisimERP_25042015\Proje_BilisimERP\obj\Debug\Proje_BilisimERP.csprojResolveAssemblyReference.cache
+E:\sonra sil\Proje_BilisimERP_25042015\Proje_BilisimERP_25042015\Proje_BilisimERP\obj\Debug\Proje_BilisimERP.cari.frmCariDetay.resources
+E:\sonra sil\Proje_BilisimERP_25042015\Proje_BilisimERP_25042015\Proje_BilisimERP\obj\Debug\Proje_BilisimERP.cari.frmCariListe.resources
+E:\sonra sil\Proje_BilisimERP_25042015\Proje_BilisimERP_25042015\Proje_BilisimERP\obj\Debug\Proje_BilisimERP.cari.frmCariGrupListe.resources
+E:\sonra sil\Proje_BilisimERP_25042015\Proje_BilisimERP_25042015\Proje_BilisimERP\obj\Debug\Proje_BilisimERP.cari.frmCariGrupDetay.resources
+E:\sonra sil\Proje_BilisimERP_25042015\Proje_BilisimERP_25042015\Proje_BilisimERP\obj\Debug\Proje_BilisimERP.cari.frmCariListeSecim.resources
+E:\sonra sil\Proje_BilisimERP_25042015\Proje_BilisimERP_25042015\Proje_BilisimERP\obj\Debug\Proje_BilisimERP.Departman.frmDeparmanListe.resources
+E:\sonra sil\Proje_BilisimERP_25042015\Proje_BilisimERP_25042015\Proje_BilisimERP\obj\Debug\Proje_BilisimERP.Departman.frmDepartmanDetay.resources
+E:\sonra sil\Proje_BilisimERP_25042015\Proje_BilisimERP_25042015\Proje_BilisimERP\obj\Debug\Proje_BilisimERP.Departman.frmDepartmanUnvan.resources
+E:\sonra sil\Proje_BilisimERP_25042015\Proje_BilisimERP_25042015\Proje_BilisimERP\obj\Debug\Proje_BilisimERP.frmAnaForm.resources
+E:\sonra sil\Proje_BilisimERP_25042015\Proje_BilisimERP_25042015\Proje_BilisimERP\obj\Debug\Proje_BilisimERP.frmAnaFormRibbon.resources
+E:\sonra sil\Proje_BilisimERP_25042015\Proje_BilisimERP_25042015\Proje_BilisimERP\obj\Debug\Proje_BilisimERP.frmExceleAktar.resources
+E:\sonra sil\Proje_BilisimERP_25042015\Proje_BilisimERP_25042015\Proje_BilisimERP\obj\Debug\Proje_BilisimERP.frmKullaniciGiris.resources
+E:\sonra sil\Proje_BilisimERP_25042015\Proje_BilisimERP_25042015\Proje_BilisimERP\obj\Debug\Proje_BilisimERP.frmPivotRapor.resources
+E:\sonra sil\Proje_BilisimERP_25042015\Proje_BilisimERP_25042015\Proje_BilisimERP\obj\Debug\Proje_BilisimERP.kullanici.frmKullaniciDetay.resources
+E:\sonra sil\Proje_BilisimERP_25042015\Proje_BilisimERP_25042015\Proje_BilisimERP\obj\Debug\Proje_BilisimERP.kullanici.frmKullaniciListe.resources
+E:\sonra sil\Proje_BilisimERP_25042015\Proje_BilisimERP_25042015\Proje_BilisimERP\obj\Debug\Proje_BilisimERP.Properties.Resources.resources
+E:\sonra sil\Proje_BilisimERP_25042015\Proje_BilisimERP_25042015\Proje_BilisimERP\obj\Debug\Proje_BilisimERP.siparis.frmSiparisDetay.resources
+E:\sonra sil\Proje_BilisimERP_25042015\Proje_BilisimERP_25042015\Proje_BilisimERP\obj\Debug\Proje_BilisimERP.siparis.frmSiparisListe.resources
+E:\sonra sil\Proje_BilisimERP_25042015\Proje_BilisimERP_25042015\Proje_BilisimERP\obj\Debug\Proje_BilisimERP.stok.frmStokDetay.resources
+E:\sonra sil\Proje_BilisimERP_25042015\Proje_BilisimERP_25042015\Proje_BilisimERP\obj\Debug\Proje_BilisimERP.stok.frmStokListe.resources
+E:\sonra sil\Proje_BilisimERP_25042015\Proje_BilisimERP_25042015\Proje_BilisimERP\obj\Debug\Proje_BilisimERP.Unvan.frmUnvanDetay.resources
+E:\sonra sil\Proje_BilisimERP_25042015\Proje_BilisimERP_25042015\Proje_BilisimERP\obj\Debug\Proje_BilisimERP.Unvan.frmUnvanListe.resources
+E:\sonra sil\Proje_BilisimERP_25042015\Proje_BilisimERP_25042015\Proje_BilisimERP\obj\Debug\Proje_BilisimERP.XtraReport1.resources
+E:\sonra sil\Proje_BilisimERP_25042015\Proje_BilisimERP_25042015\Proje_BilisimERP\obj\Debug\Proje_BilisimERP.csproj.GenerateResource.Cache
+E:\sonra sil\Proje_BilisimERP_25042015\Proje_BilisimERP_25042015\Proje_BilisimERP\obj\Debug\Proje_BilisimERP.exe.licenses
+E:\sonra sil\Proje_BilisimERP_25042015\Proje_BilisimERP_25042015\Proje_BilisimERP\bin\Debug\Proje_BilisimERP.exe
+E:\sonra sil\Proje_BilisimERP_25042015\Proje_BilisimERP_25042015\Proje_BilisimERP\bin\Debug\Proje_BilisimERP.pdb
+E:\sonra sil\Proje_BilisimERP_25042015\Proje_BilisimERP_25042015\Proje_BilisimERP\obj\Debug\Proje_BilisimERP.stok.frmStokListeSecim.resources
+C:\PROJE\GitHub\StokTakip\bin\Debug\Proje_BilisimERP.exe.config
+C:\PROJE\GitHub\StokTakip\obj\Debug\Proje_BilisimERP.exe
+C:\PROJE\GitHub\StokTakip\obj\Debug\Proje_BilisimERP.pdb
+C:\PROJE\GitHub\StokTakip\bin\Debug\Proje_BilisimERP.exe
+C:\PROJE\GitHub\StokTakip\bin\Debug\Proje_BilisimERP.pdb
+C:\PROJE\GitHub\StokTakip\obj\Debug\Proje_BilisimERP.csprojResolveAssemblyReference.cache
+C:\PROJE\GitHub\StokTakip\obj\Debug\Proje_BilisimERP.cari.frmCariDetay.resources
+C:\PROJE\GitHub\StokTakip\obj\Debug\Proje_BilisimERP.cari.frmCariListe.resources
+C:\PROJE\GitHub\StokTakip\obj\Debug\Proje_BilisimERP.cari.frmCariGrupListe.resources
+C:\PROJE\GitHub\StokTakip\obj\Debug\Proje_BilisimERP.cari.frmCariGrupDetay.resources
+C:\PROJE\GitHub\StokTakip\obj\Debug\Proje_BilisimERP.cari.frmCariListeSecim.resources
+C:\PROJE\GitHub\StokTakip\obj\Debug\Proje_BilisimERP.Departman.frmDeparmanListe.resources
+C:\PROJE\GitHub\StokTakip\obj\Debug\Proje_BilisimERP.Departman.frmDepartmanDetay.resources
+C:\PROJE\GitHub\StokTakip\obj\Debug\Proje_BilisimERP.Departman.frmDepartmanUnvan.resources
+C:\PROJE\GitHub\StokTakip\obj\Debug\Proje_BilisimERP.frmAnaForm.resources
+C:\PROJE\GitHub\StokTakip\obj\Debug\Proje_BilisimERP.frmAnaFormRibbon.resources
+C:\PROJE\GitHub\StokTakip\obj\Debug\Proje_BilisimERP.frmExceleAktar.resources
+C:\PROJE\GitHub\StokTakip\obj\Debug\Proje_BilisimERP.frmKullaniciGiris.resources
+C:\PROJE\GitHub\StokTakip\obj\Debug\Proje_BilisimERP.frmPivotRapor.resources
+C:\PROJE\GitHub\StokTakip\obj\Debug\Proje_BilisimERP.kullanici.frmKullaniciDetay.resources
+C:\PROJE\GitHub\StokTakip\obj\Debug\Proje_BilisimERP.kullanici.frmKullaniciListe.resources
+C:\PROJE\GitHub\StokTakip\obj\Debug\Proje_BilisimERP.Properties.Resources.resources
+C:\PROJE\GitHub\StokTakip\obj\Debug\Proje_BilisimERP.siparis.frmSiparisDetay.resources
+C:\PROJE\GitHub\StokTakip\obj\Debug\Proje_BilisimERP.siparis.frmSiparisListe.resources
+C:\PROJE\GitHub\StokTakip\obj\Debug\Proje_BilisimERP.stok.frmStokDetay.resources
+C:\PROJE\GitHub\StokTakip\obj\Debug\Proje_BilisimERP.stok.frmStokListe.resources
+C:\PROJE\GitHub\StokTakip\obj\Debug\Proje_BilisimERP.stok.frmStokListeSecim.resources
+C:\PROJE\GitHub\StokTakip\obj\Debug\Proje_BilisimERP.Unvan.frmUnvanDetay.resources
+C:\PROJE\GitHub\StokTakip\obj\Debug\Proje_BilisimERP.Unvan.frmUnvanListe.resources
+C:\PROJE\GitHub\StokTakip\obj\Debug\Proje_BilisimERP.XtraReport1.resources
+C:\PROJE\GitHub\StokTakip\obj\Debug\Proje_BilisimERP.csproj.GenerateResource.Cache
+C:\PROJE\GitHub\StokTakip\obj\Debug\Proje_BilisimERP.exe.licenses

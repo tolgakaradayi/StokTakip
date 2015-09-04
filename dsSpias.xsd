@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsSpias" targetNamespace="http://tempuri.org/dsSpias.xsd" xmlns:mstns="http://tempuri.org/dsSpias.xsd" xmlns="http://tempuri.org/dsSpias.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="DBConStr" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="DBConStr (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.Proje_BilisimERP.Properties.Settings.GlobalReference.Default.DBConStr" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="vwSiparisTableAdapter" GeneratorDataComponentClassName="vwSiparisTableAdapter" Name="vwSiparis" UserDataComponentName="vwSiparisTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="DBConStr (Settings)" DbObjectName="BilisimERP.dbo.vwSiparis" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT SiparisNo, SiparisTarihi, SatirToplam, StokKodu, StokTanim, CariKodu, CariTanim, CariGrupTanim FROM dbo.vwSiparis</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="SiparisNo" DataSetColumn="SiparisNo" />
+              <Mapping SourceColumn="SiparisTarihi" DataSetColumn="SiparisTarihi" />
+              <Mapping SourceColumn="SatirToplam" DataSetColumn="SatirToplam" />
+              <Mapping SourceColumn="StokKodu" DataSetColumn="StokKodu" />
+              <Mapping SourceColumn="StokTanim" DataSetColumn="StokTanim" />
+              <Mapping SourceColumn="CariKodu" DataSetColumn="CariKodu" />
+              <Mapping SourceColumn="CariTanim" DataSetColumn="CariTanim" />
+              <Mapping SourceColumn="CariGrupTanim" DataSetColumn="CariGrupTanim" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsSpias" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="dsSpias" msprop:Generator_UserDSName="dsSpias">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="vwSiparis" msprop:Generator_TableClassName="vwSiparisDataTable" msprop:Generator_TableVarName="tablevwSiparis" msprop:Generator_TablePropName="vwSiparis" msprop:Generator_RowDeletingName="vwSiparisRowDeleting" msprop:Generator_RowChangingName="vwSiparisRowChanging" msprop:Generator_RowEvHandlerName="vwSiparisRowChangeEventHandler" msprop:Generator_RowDeletedName="vwSiparisRowDeleted" msprop:Generator_UserTableName="vwSiparis" msprop:Generator_RowChangedName="vwSiparisRowChanged" msprop:Generator_RowEvArgName="vwSiparisRowChangeEvent" msprop:Generator_RowClassName="vwSiparisRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="SiparisNo" msprop:Generator_ColumnVarNameInTable="columnSiparisNo" msprop:Generator_ColumnPropNameInRow="SiparisNo" msprop:Generator_ColumnPropNameInTable="SiparisNoColumn" msprop:Generator_UserColumnName="SiparisNo" type="xs:int" />
+              <xs:element name="SiparisTarihi" msprop:Generator_ColumnVarNameInTable="columnSiparisTarihi" msprop:Generator_ColumnPropNameInRow="SiparisTarihi" msprop:Generator_ColumnPropNameInTable="SiparisTarihiColumn" msprop:Generator_UserColumnName="SiparisTarihi" type="xs:dateTime" />
+              <xs:element name="SatirToplam" msprop:Generator_ColumnVarNameInTable="columnSatirToplam" msprop:Generator_ColumnPropNameInRow="SatirToplam" msprop:Generator_ColumnPropNameInTable="SatirToplamColumn" msprop:Generator_UserColumnName="SatirToplam" type="xs:decimal" />
+              <xs:element name="StokKodu" msprop:Generator_ColumnVarNameInTable="columnStokKodu" msprop:Generator_ColumnPropNameInRow="StokKodu" msprop:Generator_ColumnPropNameInTable="StokKoduColumn" msprop:Generator_UserColumnName="StokKodu">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="StokTanim" msprop:Generator_ColumnVarNameInTable="columnStokTanim" msprop:Generator_ColumnPropNameInRow="StokTanim" msprop:Generator_ColumnPropNameInTable="StokTanimColumn" msprop:Generator_UserColumnName="StokTanim">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="CariKodu" msprop:Generator_ColumnVarNameInTable="columnCariKodu" msprop:Generator_ColumnPropNameInRow="CariKodu" msprop:Generator_ColumnPropNameInTable="CariKoduColumn" msprop:Generator_UserColumnName="CariKodu" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="CariTanim" msprop:Generator_ColumnVarNameInTable="columnCariTanim" msprop:Generator_ColumnPropNameInRow="CariTanim" msprop:Generator_ColumnPropNameInTable="CariTanimColumn" msprop:Generator_UserColumnName="CariTanim" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="CariGrupTanim" msprop:Generator_ColumnVarNameInTable="columnCariGrupTanim" msprop:Generator_ColumnPropNameInRow="CariGrupTanim" msprop:Generator_ColumnPropNameInTable="CariGrupTanimColumn" msprop:Generator_UserColumnName="CariGrupTanim">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

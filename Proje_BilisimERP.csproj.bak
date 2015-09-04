@@ -1,0 +1,323 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8DABF57E-A1BF-49C7-8A67-1F72648AE2A0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Proje_BilisimERP</RootNamespace>
+    <AssemblyName>Proje_BilisimERP</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.BonusSkins.v13.1, Version=13.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\DevExpress\DXperience 13.1\Bin\Framework\DevExpress.BonusSkins.v13.1.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Charts.v13.1.Core, Version=13.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Data.v13.1, Version=13.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Office.v13.1.Core, Version=13.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.PivotGrid.v13.1.Core, Version=13.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Printing.v13.1.Core, Version=13.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.RichEdit.v13.1.Core, Version=13.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Sparkline.v13.1.Core, Version=13.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Utils.v13.1, Version=13.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Utils.v13.1.UI, Version=13.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraBars.v13.1, Version=13.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v13.1, Version=13.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v13.1, Version=13.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGrid.v13.1, Version=13.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraLayout.v13.1, Version=13.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraPivotGrid.v13.1, Version=13.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPrinting.v13.1, Version=13.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraReports.v13.1, Version=13.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraReports.v13.1.Extensions, Version=13.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="cari\frmCariDetay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cari\frmCariDetay.Designer.cs">
+      <DependentUpon>frmCariDetay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="cari\frmCariGrupListe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cari\frmCariGrupListe.Designer.cs">
+      <DependentUpon>frmCariGrupListe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="cari\frmCariGrupDetay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cari\frmCariGrupDetay.Designer.cs">
+      <DependentUpon>frmCariGrupDetay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="cari\frmCariListeSecim.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cari\frmCariListeSecim.Designer.cs">
+      <DependentUpon>frmCariListeSecim.cs</DependentUpon>
+    </Compile>
+    <Compile Include="cs\csGridLayout.cs" />
+    <Compile Include="cs\csKullanici.cs" />
+    <Compile Include="cari\frmCariListe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cari\frmCariListe.Designer.cs">
+      <DependentUpon>frmCariListe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Departman\frmDeparmanListe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Departman\frmDeparmanListe.Designer.cs">
+      <DependentUpon>frmDeparmanListe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Departman\frmDepartmanDetay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Departman\frmDepartmanDetay.Designer.cs">
+      <DependentUpon>frmDepartmanDetay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Departman\frmDepartmanUnvan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Departman\frmDepartmanUnvan.Designer.cs">
+      <DependentUpon>frmDepartmanUnvan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="dsSpias.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsSpias.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="frmAnaForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAnaForm.Designer.cs">
+      <DependentUpon>frmAnaForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAnaFormRibbon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAnaFormRibbon.Designer.cs">
+      <DependentUpon>frmAnaFormRibbon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmExceleAktar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmExceleAktar.Designer.cs">
+      <DependentUpon>frmExceleAktar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmKullaniciGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmKullaniciGiris.Designer.cs">
+      <DependentUpon>frmKullaniciGiris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPivotRapor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPivotRapor.Designer.cs">
+      <DependentUpon>frmPivotRapor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="kullanici\frmKullaniciDetay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="kullanici\frmKullaniciDetay.Designer.cs">
+      <DependentUpon>frmKullaniciDetay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="kullanici\frmKullaniciListe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="kullanici\frmKullaniciListe.Designer.cs">
+      <DependentUpon>frmKullaniciListe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="siparis\frmSiparisDetay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="siparis\frmSiparisDetay.Designer.cs">
+      <DependentUpon>frmSiparisDetay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="siparis\frmSiparisListe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="siparis\frmSiparisListe.Designer.cs">
+      <DependentUpon>frmSiparisListe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="stok\frmStokDetay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="stok\frmStokDetay.Designer.cs">
+      <DependentUpon>frmStokDetay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="stok\frmStokListe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="stok\frmStokListe.Designer.cs">
+      <DependentUpon>frmStokListe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Unvan\frmUnvanDetay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Unvan\frmUnvanDetay.Designer.cs">
+      <DependentUpon>frmUnvanDetay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Unvan\frmUnvanListe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Unvan\frmUnvanListe.Designer.cs">
+      <DependentUpon>frmUnvanListe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="XtraReport1.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="XtraReport1.Designer.cs">
+      <DependentUpon>XtraReport1.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="cari\frmCariDetay.resx">
+      <DependentUpon>frmCariDetay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cari\frmCariListe.resx">
+      <DependentUpon>frmCariListe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cari\frmCariGrupListe.resx">
+      <DependentUpon>frmCariGrupListe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cari\frmCariGrupDetay.resx">
+      <DependentUpon>frmCariGrupDetay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cari\frmCariListeSecim.resx">
+      <DependentUpon>frmCariListeSecim.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Departman\frmDeparmanListe.resx">
+      <DependentUpon>frmDeparmanListe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Departman\frmDepartmanDetay.resx">
+      <DependentUpon>frmDepartmanDetay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Departman\frmDepartmanUnvan.resx">
+      <DependentUpon>frmDepartmanUnvan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAnaForm.resx">
+      <DependentUpon>frmAnaForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAnaFormRibbon.resx">
+      <DependentUpon>frmAnaFormRibbon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmExceleAktar.resx">
+      <DependentUpon>frmExceleAktar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmKullaniciGiris.resx">
+      <DependentUpon>frmKullaniciGiris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPivotRapor.resx">
+      <DependentUpon>frmPivotRapor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="kullanici\frmKullaniciDetay.resx">
+      <DependentUpon>frmKullaniciDetay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="kullanici\frmKullaniciListe.resx">
+      <DependentUpon>frmKullaniciListe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="siparis\frmSiparisDetay.resx">
+      <DependentUpon>frmSiparisDetay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="siparis\frmSiparisListe.resx">
+      <DependentUpon>frmSiparisListe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="stok\frmStokDetay.resx">
+      <DependentUpon>frmStokDetay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="stok\frmStokListe.resx">
+      <DependentUpon>frmStokListe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Unvan\frmUnvanDetay.resx">
+      <DependentUpon>frmUnvanDetay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Unvan\frmUnvanListe.resx">
+      <DependentUpon>frmUnvanListe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XtraReport1.resx">
+      <DependentUpon>XtraReport1.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="dsSpias.xsc">
+      <DependentUpon>dsSpias.xsd</DependentUpon>
+    </None>
+    <None Include="dsSpias.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsSpias.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dsSpias.xss">
+      <DependentUpon>dsSpias.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Koala.jpg" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
